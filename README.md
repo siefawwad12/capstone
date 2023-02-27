@@ -1,5 +1,2 @@
 # capstone   
 
-
-
-# capstone  
